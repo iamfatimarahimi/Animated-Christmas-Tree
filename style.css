@@ -81,3 +81,13 @@ body{
     transform: rotateX(90deg) translateZ(-500px);
     filter: blur(20px);
 }
+.parag{
+    position: absolute;
+    top: 100px;
+    color: #69c069;
+}
+.parag a{
+    color: #1e701e;
+    text-decoration: none;
+    font-size: 22px;
+}
